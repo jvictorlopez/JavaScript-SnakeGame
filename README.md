@@ -1,7 +1,5 @@
-# JavaScript-SnakeGame
-Este projeto foi o meu trabalho de conclusão da disciplina de Raciocínio Lógico e Algoritmo da UNIFOR.
-Foi uma ótima experiência que resumiu os conhecimentos que obtive ao longo do semestre na linguagem JavaScript.
-Obtive a nota máxima de 7 pontos. 
+# JOÃO VÍCTOR - RESUMO
+Este projeto foi desenvolvido como trabalho de conclusão da disciplina de Raciocínio Lógico e Algoritmo na UNIFOR. A experiência foi incrível e me permitiu aplicar todos os conhecimentos obtidos ao longo do semestre na linguagem JavaScript. O projeto consistiu na criação de um jogo baseado no clássico "Snake" ou "jogo da cobrinha", com algumas pequenas modificações, como adição de obstáculos e efeitos sonoros. Foi uma excelente oportunidade para consolidar minha habilidade em programação e desenvolver minhas capacidades criativas. Obtive a nota máxima de 7 pontos. 
 
 # JUSTIFICATIVA DO PROJETO
 Blockade, também conhecido como Snake ou "jogo da cobrinha", é um jogo de labirinto para
